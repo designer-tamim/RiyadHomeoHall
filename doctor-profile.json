@@ -1,0 +1,28 @@
+{
+  "doctor": {
+    "fullName": "Dr. Md. Riyad Uddin",
+    "qualification": "DHMS (BHB - DHAKA)",
+    "designation": "Assistant Teacher (Islamic Studies)",
+    "workplace": "Carew's High School",
+    "city": "Darshana",
+    "district": "Chuadanga"
+  },
+  "contact": {
+    "phone": "+8801916373228",
+    "email": "riyadhomeoh@gmail.com",
+    "facebook": "https://fb.com/RiyadHomeo",
+    "website": "https://riyadhomeo.com"
+  },
+  "chamber": {
+    "title": "Riyad Homeo Hall",
+    "addressLine1": "Darshana Bus Stand",
+    "addressLine2": "Darshana, Chuadanga"
+  },
+  "consultation": {
+    "hours": "From Asr prayer untill Isha prayer"
+  },
+  "meta": {
+    "hasQrCode": true,
+    "source": "business_card_image"
+  }
+}
