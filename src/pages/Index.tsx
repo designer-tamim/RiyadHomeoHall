@@ -184,7 +184,7 @@ const services = [
 ];
 
 const reasons = [
-  { icon: Award, title: "15+ Years Experience", desc: "Trusted by thousands of patients over a decade and a half." },
+  { icon: Award, title: "8+ Years Experience", desc: "Trusted by thousands of patients over a decade and a half." },
   { icon: Leaf, title: "Natural & Safe", desc: "No side effects. Gentle medicines suitable for all ages." },
   { icon: Heart, title: "Personalized Care", desc: "Every patient receives individualized treatment plans." },
   { icon: Shield, title: "Holistic Approach", desc: "Treating the root cause, not just the symptoms." },
