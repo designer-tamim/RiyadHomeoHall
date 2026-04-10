@@ -1,4 +1,4 @@
-import { Phone, MessageCircle, MapPin, Clock, Heart, Shield, Award, Leaf, Stethoscope, Users, ChevronRight } from "lucide-react";
+import { Phone, MessageCircle, MapPin, Clock, Heart, Shield, Award, Leaf, Stethoscope, Users, ChevronRight, Activity } from "lucide-react";
 import doctorImg from "@/assets/doctor-profile.jpg";
 
 const PHONE = "+8801916373228";
@@ -177,14 +177,14 @@ const Index = () => {
 const services = [
   { icon: Leaf, title: "Chronic Disease Management", desc: "Long-term care for conditions like asthma, arthritis, migraine, and skin disorders." },
   { icon: Heart, title: "Women & Child Health", desc: "Gentle treatments for PCOS, thyroid issues, pediatric ailments, and pregnancy care." },
-  { icon: Stethoscope, title: "Digestive Disorders", desc: "Treatment for IBS, acidity, constipation, and other gastrointestinal issues." },
+  { icon: Activity, title: "Men's & Women's Sexual Health", desc: "Experienced and confidential treatment for male and female sexual diseases." },
   { icon: Shield, title: "Allergy & Immunity", desc: "Boost immunity naturally and manage allergies, sinusitis, and recurrent infections." },
   { icon: Users, title: "Mental & Emotional Health", desc: "Support for anxiety, depression, insomnia, and stress-related conditions." },
   { icon: Award, title: "Skin & Hair Care", desc: "Holistic treatment for eczema, psoriasis, acne, hair fall, and other dermatological issues." },
 ];
 
 const reasons = [
-  { icon: Award, title: "8+ Years Experience", desc: "Trusted by thousands of patients over a decade and a half." },
+  { icon: Award, title: "15+ Years Experience", desc: "Trusted by thousands of patients over a decade and a half." },
   { icon: Leaf, title: "Natural & Safe", desc: "No side effects. Gentle medicines suitable for all ages." },
   { icon: Heart, title: "Personalized Care", desc: "Every patient receives individualized treatment plans." },
   { icon: Shield, title: "Holistic Approach", desc: "Treating the root cause, not just the symptoms." },
